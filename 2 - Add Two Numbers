@@ -1,1 +1,5 @@
-
+1. Itirating method:
+go through into two nodes seperately, for each node pluse them and write to result nodes. 
+disadvantages: too many case to discuss
+2. revert nodes into integers, and calculate their sum.
+Disadvantages: may exceed the scope of integer. 
