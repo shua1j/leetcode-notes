@@ -1,3 +1,7 @@
+1 - Two Sum
+brute force O(n^2)
+using hash map O(n) S(n)
+
 2 - Add Two Numbers
 1. Itirating method:
 go through into two nodes seperately, for each node pluse them and write to result nodes. 
